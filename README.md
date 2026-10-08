@@ -1,5 +1,12 @@
 # Stats
 
+## Windows version (Rust)
+
+This fork includes a native Windows system monitor implemented in Rust. See
+[Windows documentation](windows/README.md) for features, build instructions and
+limitations. Download the portable Windows ZIP from
+[this fork's Releases](https://github.com/gregrgr/stats/releases).
+
 <a href="https://github.com/exelban/stats/releases"><p align="center"><img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" width="120"></p></a>
 
 [![Stats](https://cdn.mac-stats.com/assets/images/menus.png)](https://github.com/exelban/stats/releases)
